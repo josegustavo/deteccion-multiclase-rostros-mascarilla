@@ -6,7 +6,10 @@ Proyecto final - Visión por computadora
 
 ## Integrantes
 
-Jorge Campos Trujillo
-Jose Quilca Vilcapoma
-Pedro Zuñiga Ramirez
-Henry David Garzon
+- Jorge Campos Trujillo
+
+- Jose Quilca Vilcapoma
+
+- Pedro Zuñiga Ramirez
+
+- Henry David Garzon
